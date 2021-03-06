@@ -70,7 +70,7 @@
                     url      : "Endereço",
                     link     : "Link",
                     alt      : "Titulo",
-                    uploadButton     : "Enviar",
+                    uploadButton     : "Selecionar",
                     imageURLEmpty    : "Erro: Endereço da imagem não pode estar em branco.",
                     uploadFileEmpty  : "Erro: É necessário enviar a imagem. Não pode estar vazio!",
                     formatNotAllowed : "Erro: Somente é possível enviar arquivos de figuras, Formatos permitidos:"
