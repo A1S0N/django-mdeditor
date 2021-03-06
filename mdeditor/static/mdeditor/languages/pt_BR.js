@@ -2,7 +2,7 @@
     var factory = function (exports) {
         var lang = {
             name : "pt_BR",
-            description : "Open source online Markdown editor.",
+            description : "Editor de textos.",
             tocTitle    : "Índice",
             toolbar : {
                 undo             : "Desfazer(Ctrl+Z)",
@@ -26,7 +26,7 @@
                 link             : "Link",
                 "reference-link" : "Link de referência",
                 image            : "Imagem",
-                code             : "Código embutído",
+                code             : "Código embutido",
                 "preformatted-text" : "Texto pré-formatado / Bloco de Código (Identado por Tab)",
                 "code-block"     : "Bloco de Código (Multi-linguagens)",
                 table            : "Tabelas",
@@ -70,7 +70,7 @@
                     url      : "Endereço",
                     link     : "Link",
                     alt      : "Titulo",
-                    uploadButton     : "Envio",
+                    uploadButton     : "Enviar",
                     imageURLEmpty    : "Erro: Endereço da imagem não pode estar em branco.",
                     uploadFileEmpty  : "Erro: É necessário enviar a imagem. Não pode estar vazio!",
                     formatNotAllowed : "Erro: Somente é possível enviar arquivos de figuras, Formatos permitidos:"
